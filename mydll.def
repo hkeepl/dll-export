@@ -1,0 +1,6 @@
+LIBRARY   mydll
+EXPORTS
+   mul
+   mul1
+   mul2
+   mul3
